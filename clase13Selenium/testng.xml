@@ -1,0 +1,16 @@
+<suite name="clase13Selenium">
+    <test name="Ejercicios Testng">
+        <parameter name="tagNameTestng" value="h1"></parameter>
+
+        <classes>
+            <class name="clase13Selenium.practico13Ejercicio6.testParametrizables"></class>
+            <class name="clase13Selenium.practico13Ejercicio8.DependentTest"></class>
+            <class name="clase13Selenium.practico13.DocusignFactory"></class>
+            <class name="clase13Selenium.practico13Ejercicio2.ShopifyFactory"></class>
+            <class name="clase13Selenium.practico13Ejercicio3.testSleep"></class>
+            <class name="clase13Selenium.practico13Ejercicio4.implicitWaitTest"></class>
+            <class name="clase13Selenium.practico13Ejercicio5.explicitWaitTest"></class>
+
+        </classes>
+    </test>
+</suite>

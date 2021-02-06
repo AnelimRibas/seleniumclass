@@ -1,0 +1,9 @@
+<suite name="Clase16Selenium">
+    <test name="Ejercicios Testng">
+        <parameter name="tagNameTestng" value="h1"></parameter>
+
+        <classes>
+            <class name="Clase16Selenium.tests.ShopifyTest"></class>
+        </classes>
+    </test>
+</suite>
